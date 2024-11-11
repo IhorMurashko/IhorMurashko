@@ -1,55 +1,33 @@
 <img src="/header.png" alt="greeting">
 
+## 🛠️ Skills & Expertise
 
+### 🖥️ Core Technologies
+- **Java** — Primary programming language, leveraging modern practices.
+- **Spring** (Core, Boot, Security, Web, Cloud, Data JPA) — For scalable, reliable applications.
+- **Hibernate / ORM** — Effective database mapping for seamless data interactions.
+- **SQL & PostgreSQL** — Designing and querying relational databases.
 
-## 👨‍💻 Skills & Expertise
+### 🔍 Testing & Debugging
+- **JUnit & Mockito** — Comprehensive testing for robust, reliable code.
+- **Postman** — API testing to verify functionality and performance.
 
-### Core Languages & Frameworks
-- **Java** — My main programming language, focusing on modern development practices.
-  
-- **Spring Framework** (Core, Boot, Security, Web, Cloud, Data JPA) — Building reliable, scalable applications for various environments.
-
-- **Hibernate / ORM** — Mastering object-relational mapping for smooth database interactions.
-
-### Databases & Data Management
-- **PostgreSQL & SQL** — Efficiently designing and querying relational databases.
-
-- **JSON** — Proficient in handling data interchange between systems.
-
-### Testing & Debugging
-- **JUnit & Mockito** — Unit testing and mock testing for robust, reliable code.
-
-- **Postman** — API testing to ensure functionality and performance.
-
-### Development Tools & Environments
-- **IntelliJ IDEA** — Optimizing coding efficiency with powerful development tools.
-
+### ⚙️ Development Tools
+- **IntelliJ IDEA** — Optimizing development efficiency.
 - **Maven** — Dependency management and project automation.
+- **Docker** — Containerization for flexible deployment.
 
-- **Docker** — Containerization for deploying applications in any environment.
+### 📦 Additional Tools
+- **Lombok** — Reducing boilerplate with annotations.
+- **MapStruct** — Streamlining data conversion.
+- **gRPC** — High-performance RPC for service communication.
 
-### Additional Tools & Libraries
-- **Lombok** — Simplifying boilerplate code with annotations.
+### 📐 Methodologies
+- **RESTful APIs** — Designing REST-compliant client-server interactions.
+- **Microservices Architecture** — Building modular, distributed applications.
 
-- **MapStruct** — Object mapping to streamline data conversion between layers.
-
-- **gRPC** — Implementing high-performance RPC protocols for service communication.
-
-### Development Methodologies
-- **RESTful Services** — Designing APIs that follow REST principles for optimal client-server communication.
-
-- **Microservices Architecture** — Crafting modular, distributed applications.
-
-### Other Technologies
-- **Git & GitHub** — Version control and collaboration on open-source and team projects.
-
-
----
-
-### 📈 Continuous Learning
-Always expanding my skillset by exploring new technologies, frameworks, and methodologies to stay ahead in software development.
-
-
+### 📂 Version Control & Workflow
+- **Git & GitHub** — Source control and collaboration.
 
 
 
