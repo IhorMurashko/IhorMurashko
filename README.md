@@ -27,7 +27,16 @@
 - **Microservices Architecture** — Building modular, distributed applications.
 
 ### 📂 Version Control & Workflow
-- **Git & GitHub** — Source control and collaboration.
+- **Git & GitHub** — Source control and collaboration.  
+
+
+
+
+### 📊 LeetCode
+
+![](https://leetcard.jacoblin.cool/train_your_brain?border=0&radius=20)
+
+
 
 
 
